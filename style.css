@@ -1,0 +1,154 @@
+html {
+    font-size: 100%;
+    margin:0%;
+    padding:0%;
+    font: inherit;
+    vertical-align: baseline;
+}
+pulsante
+
+title{
+ font: inherit;
+ vertical-align: baseline;   
+}
+body{
+    color:#393d41;
+    font-family:"Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    text-align: center;
+}
+header{
+    background-color: black;
+    padding: 1.5rem;
+}
+footer{
+    padding: 2em 1em;
+    background-color:aquamarine;
+    color: rgb(200, 231, 240);
+}
+
+#banner > pulsante {
+   outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+    background-image: url(images/banner.jpg)
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    }
+section{
+    margin-bottom: 0;
+}
+section{
+    padding: 0;
+}
+body{
+    -webkit-text-size-adjust: none;
+}
+#vantaggi div {
+    margin-bottom: 1.4em;
+}
+#esempi{
+    margin-bottom: 0;
+    padding: 3em 1.3em 2em;
+    background-color: hsl(9, 88%, 47%);
+    color: white;
+}
+html{font-size: 100%;}
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    color: #393d41;
+    line-height: 1.65;
+    text-align: center;  
+
+    margin: 0;
+    padding:0;
+}
+
+header
+{
+   background-color: black; 
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    line-height: 1.5;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    line-height: 1.5;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    line-height: 1.5;
+}
+
+#banner
+{
+    background: grey url(../images/banner.jpg) no-repeat center;
+    background-size: 550px 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+}
+
+#vantaggi
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f04c2f;
+    color:white;
+    padding: 13px 25px 13px 25px;
+    border: 0px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+
+#fotocentrale
+{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+#vantaggi
+{
+    padding: 0px 25px 0px 25px;
+}
+
+blockquote{font-style: oblique;}
+
+footer ul
+{
+    list-style: none;
+    padding-left: 0px;
+}
+footer hr {width: 60%;}
+footer a {color: #c8e7f0;}
+footer
+{
+    background-color: #25a2c3;
+    color: #c8e7f0;   
+    padding: 20px;
+    margin-top: 100px;
+    
+}
+ul li a:link{color: #c8e7f0;}
+ul li i{padding-right: 5px;}
